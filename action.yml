@@ -15,5 +15,5 @@ outputs:
   result:
     description: 'Escaped rendered template'
 runs:
-  using: 'node16'
+  using: 'node24'
   main: 'dist/index.js'
